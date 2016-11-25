@@ -1,2 +1,0 @@
-# Zlajin-JavaScript
-javascript
